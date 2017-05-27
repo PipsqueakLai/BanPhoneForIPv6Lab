@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ban Phone</string>
+    <string name="action_settings">Settings</string>
+    <string name="contentTitle">Ban Phone 提醒:</string>
+    <string name="contentText">禁止在車內使用手機</string>
+    <string name="page1">啟動</string>
+    <string name="page2">設定</string>
+    <string name="page3">標記裝置</string>
+    <string name="startService">啟動服務</string>
+    <string name="open">打開</string>
+    <string name="close">關閉</string>
+</resources>
